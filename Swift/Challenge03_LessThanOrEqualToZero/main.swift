@@ -1,6 +1,7 @@
 
 //
 //  Check if number is less than or equal to zero
+//  Very easy
 //
 func lessOrEqual(_ a: Double) -> Bool {
     return (a <= 0)

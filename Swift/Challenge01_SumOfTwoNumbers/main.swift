@@ -6,8 +6,7 @@ import Foundation
 
 //
 //  Add two numbers together
-//
-//  Function declaration:
+//  Very easy
 //
 func addition(_ a: Int, _ b: Int) -> Int    {
     return (a + b)

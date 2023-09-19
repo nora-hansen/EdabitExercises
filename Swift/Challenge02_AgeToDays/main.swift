@@ -1,6 +1,7 @@
 
 //
 //  Convert age to days
+//  Very easy
 //
 func ageToDays(_ age: Int)  -> Int  {
     
