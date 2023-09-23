@@ -7,3 +7,4 @@ The challenges I'm doing so far (2023-09):
 - JavaScript (Confident)
 - C++ (Fairly confident)
 - Swift (Newbie)
+- Java (Newbie)
